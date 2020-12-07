@@ -1,6 +1,6 @@
 let x = "je suis "
 let y = "un string"
 
-function Exo2(){
+function Exo3(x, y){
   return(x + y);
 }
