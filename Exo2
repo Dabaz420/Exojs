@@ -1,0 +1,7 @@
+let x = 0;
+let y = 2;
+
+while(x < 21){
+  console.log(x * y);
+  x++;
+}
