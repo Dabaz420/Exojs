@@ -1,0 +1,8 @@
+let dep = {02 : "Aisne", 59 : "Nord", 60 : "Oise", 62 : "Pas-de-Calais", 80 : "Somme"};
+
+dep[51] = "Marne";
+
+for (var num in dep){
+  z = "Le département " + dep[num] + " a le numéro " + num;
+  console.log(z);
+}
