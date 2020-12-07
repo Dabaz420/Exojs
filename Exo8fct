@@ -1,0 +1,7 @@
+let x = 1;
+let y = 2;
+let z = 3;
+
+function Exo8(x, y, z){
+  return(x + y + z);
+}
