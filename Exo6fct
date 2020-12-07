@@ -1,0 +1,9 @@
+let prenom = " Jean";
+let nom = " Pèpère";
+let age = 57;
+let z;
+
+function Exo6(prenom , nom, age){
+  z = "Bonjour" + nom + prenom + " , tu as " + age + " ans";
+  return(z);
+}
