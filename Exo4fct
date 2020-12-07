@@ -1,0 +1,16 @@
+let x = 10;
+let y = 101;
+let z;
+
+function Exo4(x , y){
+  if(x > y){
+    z = "Le premier nombre est plus grand";
+  }
+  else if(y > x){
+    z = "Le premier nombre est plus petit";
+  }
+  else{
+    z = "Les deux nombres sont identiques";
+  }
+  return(z);
+}
