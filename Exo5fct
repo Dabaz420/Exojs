@@ -1,0 +1,8 @@
+let x = 10;
+let y = " je suis un string";
+let z;
+
+function Exo4(x , y){
+  z = x + y;
+  return(z);
+}
