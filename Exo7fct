@@ -1,0 +1,23 @@
+let genre = "Homme";
+let age = 57;
+let z;
+
+function Exo7(genre, age){
+  if(genre == "Homme"){
+    if(age >= 18){
+      z = "Vous êtes un homme et vous êtes majeur";
+    }
+    else{
+      z = "Vous êtes un homme et vous êtes mineur";
+    }
+  }
+  else if (genre == "Femme"){
+    if(age >= 18){
+      z = "Vous êtes une femme et vous êtes majeure";
+    }
+    else{
+      z = "Vous êtes une femme et vous êtes mineure";
+    }
+  }
+  return(z);
+}
