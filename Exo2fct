@@ -1,0 +1,5 @@
+let x = "je suis un string"
+
+function Exo2(){
+  return(x);
+}
