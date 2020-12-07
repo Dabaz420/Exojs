@@ -1,5 +1,5 @@
 let x = "je suis un string"
 
-function Exo2(){
+function Exo2(x){
   return(x);
 }
