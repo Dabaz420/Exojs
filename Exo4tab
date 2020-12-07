@@ -1,0 +1,3 @@
+let mois = ['Janvier', 'Février', 'Mars', 'Avril', 'Mai', 'Juin', 'Juillet', 'Août', 'Septembre', 'Octobre', 'Novembre', 'Décembre'];
+
+mois[7] = "Août avec l'accent que j'ai pas oublier";
