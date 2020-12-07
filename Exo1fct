@@ -1,0 +1,3 @@
+function Exo1(){
+  return(true);
+}
